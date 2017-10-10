@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/trunk/3rdParty/NAnt/lib/common/neutral
+END
+NUnitCore.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/44/trunk/3rdParty/NAnt/lib/common/neutral/NUnitCore.dll
+END
+NDoc.Documenter.Msdn.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/44/trunk/3rdParty/NAnt/lib/common/neutral/NDoc.Documenter.Msdn.dll
+END
+NDoc.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/44/trunk/3rdParty/NAnt/lib/common/neutral/NDoc.Core.dll
+END
+ICSharpCode.SharpZipLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/44/trunk/3rdParty/NAnt/lib/common/neutral/ICSharpCode.SharpZipLib.dll
+END
+NDoc.ExtendedUI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/44/trunk/3rdParty/NAnt/lib/common/neutral/NDoc.ExtendedUI.dll
+END
+ICSharpCode.SharpCvsLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/44/trunk/3rdParty/NAnt/lib/common/neutral/ICSharpCode.SharpCvsLib.dll
+END
+ICSharpCode.SharpCvsLib.Console.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/44/trunk/3rdParty/NAnt/lib/common/neutral/ICSharpCode.SharpCvsLib.Console.dll
+END

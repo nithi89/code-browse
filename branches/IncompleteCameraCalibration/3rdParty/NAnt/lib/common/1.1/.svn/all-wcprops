@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/46/branches/IncompleteCameraCalibration/3rdParty/NAnt/lib/common/1.1
+END
+nunit-console-runner.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/46/branches/IncompleteCameraCalibration/3rdParty/NAnt/lib/common/1.1/nunit-console-runner.dll
+END
+nunit.core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/46/branches/IncompleteCameraCalibration/3rdParty/NAnt/lib/common/1.1/nunit.core.dll
+END
+nunit.util.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/46/branches/IncompleteCameraCalibration/3rdParty/NAnt/lib/common/1.1/nunit.util.dll
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/46/branches/IncompleteCameraCalibration/3rdParty/NAnt/lib/common/1.1/nunit.framework.dll
+END
+nunit-console.exe
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/46/branches/IncompleteCameraCalibration/3rdParty/NAnt/lib/common/1.1/nunit-console.exe
+END
